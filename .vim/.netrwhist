@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/gersti/.vim'
+let g:netrw_dirhist_4='/home/gersti/uni/bildver/praktikum/CGBVRahmenprogramm/A1_Bildverarbeitung'
+let g:netrw_dirhist_3='/home/gersti/uni/softarch/swarch-project/.vscode'
+let g:netrw_dirhist_2='/home/gersti/mmi/repos/plaza-mediacache-service/PlazaMediaCacheService'
+let g:netrw_dirhist_1='/home/gersti/.urxvt'
