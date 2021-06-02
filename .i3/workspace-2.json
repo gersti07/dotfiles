@@ -1,0 +1,230 @@
+// vim:ts=4:sw=4:et
+{
+    // tabbed split container with 3 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "tabbed",
+    "marks": [],
+    "percent": 1,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 3,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 2103,
+               "width": 2597,
+               "x": 2432,
+               "y": 46
+            },
+            "marks": [],
+            "name": "Postman",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Postman$",
+               // "instance": "^postman$",
+               // "title": "^Postman$",
+               // "window_role": "^browser\\-window$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            // splith split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "splith",
+            "marks": [],
+            "percent": 0.333333333333333,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "normal",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 1370,
+                       "width": 2548,
+                       "x": 4761,
+                       "y": 528
+                    },
+                    "marks": [],
+                    "name": "Kurs: Software-Archäologie - Brave",
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Brave\\-browser$",
+                       // "instance": "^brave\\-browser$",
+                       // "title": "^Kurs\\:\\ Software\\-Archäologie\\ \\-\\ Brave$",
+                       // "window_role": "^browser$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 1370,
+                       "width": 2548,
+                       "x": 5104,
+                       "y": 421
+                    },
+                    "marks": [],
+                    "name": "RabbitMQ Management - Brave",
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Brave\\-browser$",
+                       // "instance": "^brave\\-browser$",
+                       // "title": "^RabbitMQ\\ Management\\ \\-\\ Brave$",
+                       // "window_role": "^browser$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        },
+        {
+            // tabbed split container with 4 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "tabbed",
+            "marks": [],
+            "percent": 0.333333333333333,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "normal",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 1388,
+                       "width": 2548,
+                       "x": 5056,
+                       "y": 347
+                    },
+                    "marks": [],
+                    "name": "RedNet - Brave",
+                    "percent": 0.256263736263736,
+                    "swallows": [
+                       {
+                       // "class": "^Brave\\-browser$",
+                       // "instance": "^brave\\-browser$",
+                       // "title": "^RedNet\\ \\-\\ Brave$",
+                       // "window_role": "^browser$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    // splith split container with 2 children
+                    "border": "pixel",
+                    "floating": "auto_off",
+                    "layout": "splith",
+                    "marks": [],
+                    "percent": 0.25,
+                    "type": "con",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 458,
+                               "width": 816,
+                               "x": 0,
+                               "y": 0
+                            },
+                            "marks": [],
+                            "name": "vim RednetMediaInfoExample.json",
+                            "percent": 0.5,
+                            "swallows": [
+                               {
+                               // "class": "^Gnome\\-terminal$",
+                               // "instance": "^gnome\\-terminal\\-server$",
+                               // "title": "^vim\\ RednetMediaInfoExample\\.json$",
+                               // "window_role": "^gnome\\-terminal\\-window\\-60106270\\-1726\\-4dc4\\-8ef2\\-9b3118e05439$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 458,
+                               "width": 816,
+                               "x": 0,
+                               "y": 0
+                            },
+                            "marks": [],
+                            "name": "gersti@gersti-pc:~/mmi/tmp",
+                            "percent": 0.5,
+                            "swallows": [
+                               {
+                               // "class": "^Gnome\\-terminal$",
+                               // "instance": "^gnome\\-terminal\\-server$",
+                               // "title": "^gersti\\@gersti\\-pc\\:\\~\\/mmi\\/tmp$",
+                               // "window_role": "^gnome\\-terminal\\-window\\-22eedb26\\-d1a8\\-4726\\-a2b6\\-4f2d84ebee53$"
+                               }
+                            ],
+                            "type": "con"
+                        }
+                    ]
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 1370,
+                       "width": 2548,
+                       "x": 5578,
+                       "y": 333
+                    },
+                    "marks": [],
+                    "name": "i3: Layout saving in i3 - Brave",
+                    "percent": 0.25,
+                    "swallows": [
+                       {
+                       // "class": "^Brave\\-browser$",
+                       // "instance": "^brave\\-browser$",
+                       // "title": "^i3\\:\\ Layout\\ saving\\ in\\ i3\\ \\-\\ Brave$",
+                       // "window_role": "^browser$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    "border": "normal",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 1200,
+                       "width": 1200,
+                       "x": 0,
+                       "y": 600
+                    },
+                    "marks": [],
+                    "name": "MediaCache - diagrams.net",
+                    "percent": 0.243736263736264,
+                    "swallows": [
+                       {
+                       // "class": "^draw\\.io$",
+                       // "instance": "^draw\\.io$",
+                       // "title": "^MediaCache\\ \\-\\ diagrams\\.net$",
+                       // "window_role": "^browser\\-window$"
+                       }
+                    ],
+                    "type": "con"
+                }
+            ]
+        }
+    ]
+}
+

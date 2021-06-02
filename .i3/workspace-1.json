@@ -1,0 +1,160 @@
+// vim:ts=4:sw=4:et
+{
+    // splitv split container with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "marks": [],
+    "percent": 0.296614583333333,
+    "type": "con",
+    "nodes": [
+        {
+            // tabbed split container with 2 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "tabbed",
+            "marks": [],
+            "percent": 0.77221702525725,
+            "type": "con",
+            "nodes": [
+                {
+                    "border": "normal",
+                    "current_border_width": 3,
+                    "floating": "auto_off",
+                    "geometry": {
+                       "height": 458,
+                       "width": 816,
+                       "x": 0,
+                       "y": 0
+                    },
+                    "marks": [],
+                    "name": "gersti@gersti-pc:~/mmi/tmp",
+                    "percent": 0.5,
+                    "swallows": [
+                       {
+                       // "class": "^Gnome\\-terminal$",
+                       // "instance": "^gnome\\-terminal\\-server$",
+                       // "title": "^gersti\\@gersti\\-pc\\:\\~\\/mmi\\/tmp$",
+                       // "window_role": "^gnome\\-terminal\\-window\\-d74bbea3\\-1df8\\-4e28\\-b97d\\-994325015261$"
+                       }
+                    ],
+                    "type": "con"
+                },
+                {
+                    // splitv split container with 1 children
+                    "border": "pixel",
+                    "floating": "auto_off",
+                    "layout": "splitv",
+                    "marks": [],
+                    "percent": 0.5,
+                    "type": "con",
+                    "nodes": [
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 458,
+                               "width": 816,
+                               "x": 0,
+                               "y": 0
+                            },
+                            "marks": [],
+                            "name": "i3-save-tree --workspace 1 > ~/.i3/workspace-1.json",
+                            "percent": 1,
+                            "swallows": [
+                               {
+                               // "class": "^Gnome\\-terminal$",
+                               // "instance": "^gnome\\-terminal\\-server$",
+                               // "title": "^i3\\-save\\-tree\\ \\-\\-workspace\\ 1\\ \\>\\ \\~\\/\\.i3\\/workspace\\-1\\.json$",
+                               // "window_role": "^gnome\\-terminal\\-window\\-59736d19\\-7482\\-49ff\\-b50f\\-947319b2c668$"
+                               }
+                            ],
+                            "type": "con"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "border": "normal",
+            "current_border_width": 3,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 458,
+               "width": 816,
+               "x": 0,
+               "y": 0
+            },
+            "marks": [],
+            "name": "docker-compose up",
+            "percent": 0.22778297474275,
+            "swallows": [
+               {
+               // "class": "^Gnome\\-terminal$",
+               // "instance": "^gnome\\-terminal\\-server$",
+               // "title": "^docker\\-compose\\ up$",
+               // "window_role": "^gnome\\-terminal\\-window\\-3f07aed7\\-86b7\\-4bc7\\-8c8a\\-60f93d1fa936$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // tabbed split container with 2 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "tabbed",
+    "marks": [],
+    "percent": 0.703385416666667,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 3,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 2094,
+               "width": 1649,
+               "x": 1208,
+               "y": 28
+            },
+            "marks": [],
+            "name": "PlazaMediaCacheService – MediaCacheDirigent.cs",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^jetbrains\\-rider$",
+               // "instance": "^jetbrains\\-rider$",
+               // "title": "^PlazaMediaCacheService\\ \\–\\ MediaCacheDirigent\\.cs$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 3,
+            "floating": "user_off",
+            "geometry": {
+               "height": 2094,
+               "width": 1649,
+               "x": 1208,
+               "y": 28
+            },
+            "marks": [],
+            "name": "MediaCacheBroker – MediaCacheBroker.cs",
+            "percent": 0.5,
+            "swallows": [
+               {
+               // "class": "^jetbrains\\-rider$",
+               // "instance": "^jetbrains\\-rider$",
+               // "title": "^MediaCacheBroker\\ \\–\\ MediaCacheBroker\\.cs$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+

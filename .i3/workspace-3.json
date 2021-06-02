@@ -1,0 +1,274 @@
+// vim:ts=4:sw=4:et
+{
+    // splitv split container with 1 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "marks": [],
+    "percent": 1,
+    "type": "con",
+    "nodes": [
+        {
+            // stacked split container with 1 children
+            "border": "pixel",
+            "floating": "auto_off",
+            "layout": "stacked",
+            "marks": [],
+            "percent": 1,
+            "type": "con",
+            "nodes": [
+                {
+                    // stacked split container with 9 children
+                    "border": "pixel",
+                    "floating": "auto_off",
+                    "layout": "stacked",
+                    "marks": [],
+                    "percent": 1,
+                    "type": "con",
+                    "nodes": [
+                        {
+                            // tabbed split container with 2 children
+                            "border": "pixel",
+                            "floating": "auto_off",
+                            "layout": "tabbed",
+                            "marks": [],
+                            "percent": 0.111111111111111,
+                            "type": "con",
+                            "nodes": [
+                                {
+                                    "border": "normal",
+                                    "current_border_width": 3,
+                                    "floating": "auto_off",
+                                    "geometry": {
+                                       "height": 1778,
+                                       "width": 1188,
+                                       "x": 6,
+                                       "y": 376
+                                    },
+                                    "marks": [],
+                                    "name": "MsShared — TeamCity - Brave",
+                                    "percent": 0.5,
+                                    "swallows": [
+                                       {
+                                       // "class": "^Brave\\-browser$",
+                                       // "instance": "^brave\\-browser$",
+                                       // "title": "^MsShared\\ \\—\\ TeamCity\\ \\-\\ Brave$",
+                                       // "window_role": "^browser$"
+                                       }
+                                    ],
+                                    "type": "con"
+                                },
+                                {
+                                    "border": "normal",
+                                    "current_border_width": 3,
+                                    "floating": "user_off",
+                                    "geometry": {
+                                       "height": 1796,
+                                       "width": 1188,
+                                       "x": 6,
+                                       "y": 358
+                                    },
+                                    "marks": [],
+                                    "name": "Skype Preview",
+                                    "percent": 0.5,
+                                    "swallows": [
+                                       {
+                                       // "class": "^Skype$",
+                                       // "instance": "^skype$",
+                                       // "title": "^Skype\\ Preview$",
+                                       // "window_role": "^browser\\-window$"
+                                       }
+                                    ],
+                                    "type": "con"
+                                }
+                            ]
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 2105,
+                               "width": 1590,
+                               "x": 433,
+                               "y": 535
+                            },
+                            "marks": [],
+                            "name": "Format JSON in vim (Example) - Brave",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^Brave\\-browser$",
+                               // "instance": "^brave\\-browser$",
+                               // "title": "^Format\\ JSON\\ in\\ vim\\ \\(Example\\)\\ \\-\\ Brave$",
+                               // "window_role": "^browser$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 1814,
+                               "width": 1188,
+                               "x": 6,
+                               "y": 340
+                            },
+                            "marks": [],
+                            "name": "Tusk",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^Tusk$",
+                               // "instance": "^tusk$",
+                               // "title": "^Tusk$",
+                               // "window_role": "^browser\\-window$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 1742,
+                               "width": 1188,
+                               "x": 6,
+                               "y": 412
+                            },
+                            "marks": [],
+                            "name": "test.kdbx - KeePass",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^KeePass2$",
+                               // "instance": "^keepass2$",
+                               // "title": "^test\\.kdbx\\ \\-\\ KeePass$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 1919,
+                               "width": 1199,
+                               "x": 1209,
+                               "y": 46
+                            },
+                            "marks": [],
+                            "name": "Joplin",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^Joplin$",
+                               // "instance": "^joplin$",
+                               // "title": "^Joplin$",
+                               // "window_role": "^browser\\-window$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 1850,
+                               "width": 1188,
+                               "x": 0,
+                               "y": 0
+                            },
+                            "marks": [],
+                            "name": "Inbox - philipp.gerstmayr@extern.mmi-media.de - Mozilla Thunderbird",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^Thunderbird$",
+                               // "instance": "^Mail$",
+                               // "title": "^Inbox\\ \\-\\ philipp\\.gerstmayr\\@extern\\.mmi\\-media\\.de\\ \\-\\ Mozilla\\ Thunderbird$",
+                               // "window_role": "^3pane$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "user_off",
+                            "geometry": {
+                               "height": 696,
+                               "width": 990,
+                               "x": 105,
+                               "y": 852
+                            },
+                            "marks": [],
+                            "name": "Settings",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^Gnome\\-control\\-center$",
+                               // "instance": "^gnome\\-control\\-center$",
+                               // "title": "^Settings$",
+                               // "window_role": "^sound$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 600,
+                               "width": 800,
+                               "x": 0,
+                               "y": 0
+                            },
+                            "marks": [],
+                            "name": "Hammock - One Another",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^Spotify$",
+                               // "instance": "^spotify$",
+                               // "title": "^Hammock\\ \\-\\ One\\ Another$"
+                               }
+                            ],
+                            "type": "con"
+                        },
+                        {
+                            "border": "normal",
+                            "current_border_width": 3,
+                            "floating": "auto_off",
+                            "geometry": {
+                               "height": 1724,
+                               "width": 1188,
+                               "x": 6,
+                               "y": 430
+                            },
+                            "marks": [],
+                            "name": "@Fr33ksS - Discord",
+                            "percent": 0.111111111111111,
+                            "swallows": [
+                               {
+                               // "class": "^discord$",
+                               // "instance": "^discord$",
+                               // "title": "^\\@Fr33ksS\\ \\-\\ Discord$",
+                               // "window_role": "^browser\\-window$"
+                               }
+                            ],
+                            "type": "con"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
