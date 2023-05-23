@@ -1,0 +1,124 @@
+{
+  "border": "pixel",
+  "current_border_width": -1,
+  "floating": "auto_off",
+  "fullscreen_mode": 1,
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "layout": "splith",
+  "marks": [],
+  "name": "2",
+  "orientation": "horizontal",
+  "percent": 1.0,
+  "scratchpad_state": "none",
+  "sticky": false,
+  "type": "workspace",
+  "workspace_layout": "default",
+  "nodes": [
+    {
+      "border": "pixel",
+      "current_border_width": -1,
+      "floating": "auto_off",
+      "fullscreen_mode": 0,
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "layout": "tabbed",
+      "marks": [],
+      "name": null,
+      "orientation": "horizontal",
+      "percent": 1.0,
+      "scratchpad_state": "none",
+      "sticky": false,
+      "type": "con",
+      "workspace_layout": "default",
+      "nodes": [
+        {
+          "border": "normal",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 816,
+            "height": 458
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "gersti@gersti-pc:~",
+          "orientation": "none",
+          "percent": 0.3333333333333333,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^Gnome\\-terminal$"
+            }
+          ]
+        },
+        {
+          "border": "normal",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 5046,
+            "y": 46,
+            "width": 2548,
+            "height": 1388
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "Post Attendee - Zoom - Chromium",
+          "orientation": "none",
+          "percent": 0.3333333333333333,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^Chromium\\-browser$"
+            }
+          ]
+        },
+        {
+          "border": "normal",
+          "current_border_width": 3,
+          "floating": "auto_off",
+          "fullscreen_mode": 0,
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 816,
+            "height": 458
+          },
+          "layout": "splith",
+          "marks": [],
+          "name": "gersti@gersti-pc:~",
+          "orientation": "none",
+          "percent": 0.3333333333333333,
+          "scratchpad_state": "none",
+          "sticky": false,
+          "type": "con",
+          "workspace_layout": "default",
+          "swallows": [
+            {
+              "class": "^Gnome\\-terminal$"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

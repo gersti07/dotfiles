@@ -1,0 +1,22 @@
+[
+  {
+    "command": [
+      "gnome-terminal"
+    ],
+    "working_directory": "/home/gersti"
+  },
+  {
+    "command": [
+      "/usr/lib/chromium/chromium",
+      "--enable-crashpad",
+      "--enable-crashpad"
+    ],
+    "working_directory": "/home/gersti"
+  },
+  {
+    "command": [
+      "gnome-terminal"
+    ],
+    "working_directory": "/home/gersti"
+  }
+]

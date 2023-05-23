@@ -1,0 +1,8 @@
+[
+  {
+    "command": [
+      "/opt/notion-app/notion"
+    ],
+    "working_directory": "/home/gersti"
+  }
+]

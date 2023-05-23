@@ -1,0 +1,11 @@
+[
+  {
+    "command": [
+      "/var/lib/snapd/snap/code/78/usr/share/code/code",
+      "--no-sandbox",
+      "--force-user-env",
+      "--unity-launch"
+    ],
+    "working_directory": "/home/gersti"
+  }
+]

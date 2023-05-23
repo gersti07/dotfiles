@@ -1,0 +1,14 @@
+[
+  {
+    "command": [
+      "/usr/bin/pavucontrol-qt"
+    ],
+    "working_directory": "/home/gersti"
+  },
+  {
+    "command": [
+      "/snap/spotify/53/usr/share/spotify/spotify"
+    ],
+    "working_directory": "/home/gersti"
+  }
+]

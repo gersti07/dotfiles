@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/gersti/i3Config'
+let g:netrw_dirhist_7='/etc/pure-ftpd'
+let g:netrw_dirhist_6='/home/gersti/lrz/projektstudium/proj/nowasteai-gitlab-runner'
 let g:netrw_dirhist_5='/home/gersti/.vim'
 let g:netrw_dirhist_4='/home/gersti/uni/bildver/praktikum/CGBVRahmenprogramm/A1_Bildverarbeitung'
 let g:netrw_dirhist_3='/home/gersti/uni/softarch/swarch-project/.vscode'

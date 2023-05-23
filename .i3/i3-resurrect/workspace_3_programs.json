@@ -1,0 +1,16 @@
+[
+  {
+    "command": [
+      "/usr/share/skypeforlinux/skypeforlinux",
+      "--executed-from=/home/gersti",
+      "--pid=433929"
+    ],
+    "working_directory": "/usr/share/skypeforlinux"
+  },
+  {
+    "command": [
+      "/usr/lib/thunderbird/thunderbird"
+    ],
+    "working_directory": "/home/gersti"
+  }
+]
